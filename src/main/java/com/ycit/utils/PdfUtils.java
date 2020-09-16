@@ -20,7 +20,7 @@ public class PdfUtils {
             return;
         }
         try {
-            String wordPath = "D:\\徐姗姗简历.docx";
+            String wordPath = "D:\\keda\\茅文俊—java.doc";
             String pdfPath = "D:\\1.pdf";
             long old = System.currentTimeMillis();
             File file = new File(pdfPath); //新建一个空白pdf文档
